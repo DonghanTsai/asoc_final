@@ -19,5 +19,6 @@
 ../../user_subsys/la_mux/rtl/la_mux.v
 ../../user_subsys/user_prj/user_prj0/rtl/user_prj0.v
 ../../user_subsys/user_prj/user_prj0/rtl/attention.v
+../../user_subsys/user_prj/user_prj1/rtl/user_prj1.v
 ../../user_subsys/user_prj/user_prj2/rtl/user_prj2.v
 ../../user_subsys/user_prj/user_prj3/rtl/user_prj3.v
