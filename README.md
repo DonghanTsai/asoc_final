@@ -10,4 +10,4 @@ tb_fsic.v      --> move to ./fsic_fpga/rtl/user/testbench/
 attention.v    --> move to ./fsic_fpga/rtl/user/user_subsys/user_prj/user_prj0/rtl/  
 rtl.v          --> move to ./fsic_fpga/rtl/user/user_subsys/user_prj/user_prj0/rtl/  
 user_proj0.v   --> move to ./fsic_fpga/rtl/user/user_subsys/user_prj/user_prj0/rtl/  
-4. source ./fsic_fpga/rtl/user/testbench/tc/run_xsim so you can replicate the result  
+3. source ./fsic_fpga/rtl/user/testbench/tc/run_xsim so you can replicate the result  
